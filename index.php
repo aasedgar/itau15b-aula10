@@ -96,8 +96,8 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Vem ser gigante!</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <p class="animate__animated animate__fadeInUp">clique abaixo e tenha mais informações.</p>
+                <a href="https://api.whatsapp.com/send?phone=5511964638496&text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
           </div>
