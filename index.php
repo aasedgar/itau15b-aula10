@@ -45,7 +45,7 @@
 
       <div class="row justify-content-center align-items-center">
         <div class="col-xl-11 d-flex align-items-center justify-content-between">
-          <h1 class="logo"><a href="index.html">BizPage</a></h1>
+          <h1 class="logo"><a href="index.html">Bem-vindo | Edgar Augusto</a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
           <!-- <a href="index.html" class="logo"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -95,7 +95,7 @@
           <div class="carousel-item active" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/1.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
+                <h2 class="animate__animated animate__fadeInDown">Vem ser gigante!</h2>
                 <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
@@ -105,7 +105,7 @@
           <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/2.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
+                <h2 class="animate__animated animate__fadeInDown">Vamos juntos!</h2>
                 <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
@@ -115,7 +115,7 @@
           <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/3.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
+                <h2 class="animate__animated animate__fadeInDown">A hora é agora</h2>
                 <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
@@ -125,7 +125,7 @@
           <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/4.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
+                <h2 class="animate__animated animate__fadeInDown">O sucesso está no próximo passo</h2>
                 <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
@@ -135,7 +135,7 @@
           <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/5.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
+                <h2 class="animate__animated animate__fadeInDown">Nós podemos te ajudar</h2>
                 <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
