@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Company Bootstrap Template Demo</title>
+  <title>KnightOne Bootstrap Template Demo</title>
   <meta name="robots" content="noindex, nofollow">
     <link rel="stylesheet" href="https://bootstrapmade.com/theme/css/demo-2.3.0.css">
   </head>
@@ -18,27 +18,27 @@
     </div>
     <div class="preview-devices">
       <ul>
-        <li class="preview-test preview-devices-active" id="preview-test-desktop" title="Desktop preview of the  Company template"><a href=""><svg class="icon icon-preview"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#preview"/></svg></a></li>
-        <li class="preview-test" id="preview-test-tablet" title="Tablet preview of the Company template"><a href=""><svg class="icon icon-tablet"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#tablet"/></svg></a></li>
-        <li class="preview-test" id="preview-test-mobile" title="Mobile preview of the Company template"><a href=""><svg class="icon icon-smartphone"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#smartphone"/></svg></a></li>
+        <li class="preview-test preview-devices-active" id="preview-test-desktop" title="Desktop preview of the  KnightOne template"><a href=""><svg class="icon icon-preview"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#preview"/></svg></a></li>
+        <li class="preview-test" id="preview-test-tablet" title="Tablet preview of the KnightOne template"><a href=""><svg class="icon icon-tablet"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#tablet"/></svg></a></li>
+        <li class="preview-test" id="preview-test-mobile" title="Mobile preview of the KnightOne template"><a href=""><svg class="icon icon-smartphone"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#smartphone"/></svg></a></li>
       </ul>
     </div>
 
     <div class="navigate">
       <ul>
-        <li><a href="https://bootstrapmade.com/demo/templates/Company/" target="_top" title="Hide the demo bar"><svg class="icon icon-external-link"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#external-link"/></svg></a></li>
-        <li><a href="https://bootstrapmade.com/company-free-html-bootstrap-template/" title="Company Template Home Page"><svg class="icon icon-home"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#home"/></svg></a></li>
-        <li><a class="download" href="https://bootstrapmade.com/company-free-html-bootstrap-template/#download" title="Download the Company Template"><svg class="icon icon-download"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#download"/></svg> <span>Free Download</span></a></li>
-                  <li><a href="https://bootstrapmade.com/demo/Dewi/" title="Previous Template: Dewi" target="_top"><svg class="icon icon-chevron-left"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#chevron-left"/></svg></a></li>
+        <li><a href="https://bootstrapmade.com/demo/templates/KnightOne/" target="_top" title="Hide the demo bar"><svg class="icon icon-external-link"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#external-link"/></svg></a></li>
+        <li><a href="https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/" title="KnightOne Template Home Page"><svg class="icon icon-home"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#home"/></svg></a></li>
+        <li><a class="download" href="https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/#download" title="Download the KnightOne Template"><svg class="icon icon-download"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#download"/></svg> <span>Free Download</span></a></li>
+                  <li><a href="https://bootstrapmade.com/demo/OnePage/" title="Previous Template: OnePage" target="_top"><svg class="icon icon-chevron-left"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#chevron-left"/></svg></a></li>
         
-                <li><a href="https://bootstrapmade.com/demo/Techie/" title="Next Template: Techie" target="_top"><svg class="icon icon-chevron-right"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#chevron-right"/></svg></a></li>
+                <li><a href="https://bootstrapmade.com/demo/Arsha/" title="Next Template: Arsha" target="_top"><svg class="icon icon-chevron-right"  fill="currentColor"><use xlink:href="https://bootstrapmade.com/theme/img/icons-2.3.0.svg#chevron-right"/></svg></a></li>
               </ul>
     </div>
 
   </header>
 
   <div id="preview">
-    <iframe id="preview-frame" class="preview-desktop" src="https://bootstrapmade.com/demo/templates/Company/" frameborder="0"></iframe>
+    <iframe id="preview-frame" class="preview-desktop" src="https://bootstrapmade.com/demo/templates/KnightOne/" frameborder="0"></iframe>
   </div>
 
       <script src="https://bootstrapmade.com/theme/js/demo-2.3.0.js"></script>
