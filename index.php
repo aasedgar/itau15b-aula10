@@ -84,14 +84,14 @@
       <div class="hero-content">
         <h1>I'm <span class="typed" data-typed-items="Edgar Augusto, Designer, Developer, Freelancer, Photographer"></span></h1>
         <p>Designer, Developer, Freelancer, Photographer</p>
+          <br>
+          <li><a target="_blank" href="https://api.whatsapp.com/send?phone=5511964638496&text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es"><i class="bi bi-Clique aqui para mais infomrações"></i></a></li>
 
         <ul class="list-unstyled list-social">
           <li><a href="#"><i class="bi bi-facebook"></i></a></li>
           <li><a href="#"><i class="bi bi-twitter"></i></a></li>
           <li><a href="#"><i class="bi bi-instagram"></i></a></li>
           <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
-          <br>
-          <li><a target="_blank" href="https://api.whatsapp.com/send?phone=5511964638496&text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es"><i class="bi bi-Clique aqui para mais infomrações"></i></a></li>
         </ul>
       </div>
     </div>
