@@ -12,22 +12,22 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/favicon.png" rel="icon">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="https://bootstrapmade.com/demo/templates/BizPage/assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: BizPage - v5.0.2
@@ -47,7 +47,7 @@
         <div class="col-xl-11 d-flex align-items-center justify-content-between">
           <h1 class="logo"><a href="index.html">BizPage</a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
-          <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+          <!-- <a href="index.html" class="logo"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
           <nav id="navbar" class="navbar">
             <ul>
@@ -92,7 +92,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/1.jpg)">
+          <div class="carousel-item active" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
@@ -102,7 +102,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/2.jpg)">
+          <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -112,7 +112,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/3.jpg)">
+          <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -122,7 +122,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/4.jpg)">
+          <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/4.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
@@ -132,7 +132,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/5.jpg)">
+          <div class="carousel-item" style="background-image: url(https://bootstrapmade.com/demo/templates/BizPage/assets/img/hero-carousel/5.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
@@ -199,7 +199,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
             <div class="about-col">
               <div class="img">
-                <img src="assets/img/about-mission.jpg" alt="" class="img-fluid">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/about-mission.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="bi bi-bar-chart"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Mission</a></h2>
@@ -212,7 +212,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
             <div class="about-col">
               <div class="img">
-                <img src="assets/img/about-plan.jpg" alt="" class="img-fluid">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/about-plan.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="bi bi-brightness-high"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Plan</a></h2>
@@ -225,7 +225,7 @@
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="about-col">
               <div class="img">
-                <img src="assets/img/about-vision.jpg" alt="" class="img-fluid">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/about-vision.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="bi bi-calendar4-week"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Vision</a></h2>
@@ -370,7 +370,7 @@
         </div>
 
         <div class="facts-img">
-          <img src="assets/img/facts-img.png" alt="" class="img-fluid">
+          <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/facts-img.png" alt="" class="img-fluid">
         </div>
 
       </div>
@@ -400,8 +400,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -415,8 +415,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -430,8 +430,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -445,8 +445,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -460,8 +460,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -475,8 +475,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -490,8 +490,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -505,8 +505,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/card3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -520,8 +520,8 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
+              <a href="https://bootstrapmade.com/demo/templates/BizPage/assets/img/portfolio/web1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
@@ -547,14 +547,14 @@
 
         <div class="clients-slider swiper-container">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -575,65 +575,65 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <p>
-                  <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
                 <p>
-                  <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
                 <p>
-                  <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
                 <p>
-                  <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
+                <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
                 <p>
-                  <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+                  <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
             </div><!-- End testimonial item -->
@@ -657,7 +657,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/team-1.jpg" class="img-fluid" alt="">
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Walter White</h4>
@@ -675,7 +675,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/team-2.jpg" class="img-fluid" alt="">
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/team-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Sarah Jhonson</h4>
@@ -693,7 +693,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/team-3.jpg" class="img-fluid" alt="">
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>William Anderson</h4>
@@ -711,7 +711,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets/img/team-4.jpg" class="img-fluid" alt="">
+              <img src="https://bootstrapmade.com/demo/templates/BizPage/assets/img/team-4.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Amanda Jepson</h4>
@@ -874,17 +874,17 @@
   <!-- <div id="preloader"></div> -->
 
   <!-- Vendor JS Files -->
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/purecounter/purecounter.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/aos/aos.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/purecounter/purecounter.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/vendor/waypoints/noframework.waypoints.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="https://bootstrapmade.com/demo/templates/BizPage/assets/js/main.js"></script>
 
   <script>if( window.self == window.top ) { (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55234356-4', 'auto'); ga('send', 'pageview'); } </script>
 </body>
